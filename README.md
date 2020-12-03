@@ -16,8 +16,8 @@ Zookeepr is a program designed to keep track of personel and animals at the loca
   * [Questions](#questions)
 
 ## Deployment
-    Zookeepr is deployed at the following link
-    https://dry-mountain-81499.herokuapp.com/
+Zookeepr is deployed at the following link
+https://dry-mountain-81499.herokuapp.com/
 
 ## Contributions
 
