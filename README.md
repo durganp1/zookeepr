@@ -5,7 +5,7 @@
   
 
 ## Description
-    Zookeepr is a program designed to keep track of personel and animals at the local zoo.  You can search for individual personel or animals by a variety of categories.  It was build with Node, Express, Heroku, JavaScript, HTML, CSS and Insomnia.
+Zookeepr is a program designed to keep track of personel and animals at the local zoo.  You can search for individual personel or animals by a variety of categories.  It was build with Node, Express, Heroku, JavaScript, HTML, CSS and Insomnia.
 
 ## Table of Contents
 
